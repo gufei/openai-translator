@@ -2,6 +2,8 @@
 
 python3.10
 
+使用需要openai的apikey和baseurl，如果有人自己不会搞，可以联系下边的微信
+
 ```bash
 pip install pyinstaller
 pyinstaller -F main.py --clean
