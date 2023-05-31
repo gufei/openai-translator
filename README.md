@@ -9,4 +9,11 @@ pyinstaller -F main.py --clean
 
 dist 目录中就是生成的可执行文件
 
-![ex1.jpg](images%2Fex1.jpg)
+![ex1.jpg](resources%2Fimage%2Fex1.jpg)
+
+
+---
+
+<figure class="third">
+<img src=resources/image/zsxq.jpg height=300 /><img src=resources/image/weixin.jpg height=300 />
+</figure>
