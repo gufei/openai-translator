@@ -1,5 +1,7 @@
 # OPENAI 翻译工具
 
+python3.10
+
 ```bash
 pip install pyinstaller
 pyinstaller -F main.py --clean
